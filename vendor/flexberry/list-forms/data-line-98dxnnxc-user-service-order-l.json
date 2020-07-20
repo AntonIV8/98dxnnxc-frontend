@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-98dxnnxc-user-service-order-e",
+  "editForm": "data-line-98dxnnxc-user-service-order-e",
+  "external": false,
+  "caption": "User_service_order",
+  "name": "DataLine98dxnnxcuser_service_orderL",
+  "className": "user_service_orderL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-98dxnnxc-user-service-order",
+      "modelProjection": "user_service_orderL"
+    }
+  ]
+}

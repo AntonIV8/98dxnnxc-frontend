@@ -1,0 +1,4 @@
+import DataLine98dxnnxcresource_characteristic_logEController from '../data-line-98dxnnxc-resource-characteristic-log-e';
+
+var DataLine98dxnnxcresource_characteristic_logENewController = DataLine98dxnnxcresource_characteristic_logEController;
+export default DataLine98dxnnxcresource_characteristic_logENewController;

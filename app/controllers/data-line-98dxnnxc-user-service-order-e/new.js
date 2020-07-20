@@ -1,0 +1,4 @@
+import DataLine98dxnnxcuser_service_orderEController from '../data-line-98dxnnxc-user-service-order-e';
+
+var DataLine98dxnnxcuser_service_orderENewController = DataLine98dxnnxcuser_service_orderEController;
+export default DataLine98dxnnxcuser_service_orderENewController;

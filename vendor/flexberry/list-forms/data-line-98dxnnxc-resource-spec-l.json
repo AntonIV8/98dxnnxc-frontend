@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-98dxnnxc-resource-spec-e",
+  "editForm": "data-line-98dxnnxc-resource-spec-e",
+  "external": false,
+  "caption": "Resource_spec",
+  "name": "DataLine98dxnnxcresource_specL",
+  "className": "resource_specL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-98dxnnxc-resource-spec",
+      "modelProjection": "resource_specL"
+    }
+  ]
+}

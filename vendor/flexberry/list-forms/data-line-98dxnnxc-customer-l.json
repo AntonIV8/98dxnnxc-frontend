@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-98dxnnxc-customer-e",
+  "editForm": "data-line-98dxnnxc-customer-e",
+  "external": false,
+  "caption": "Customer",
+  "name": "DataLine98dxnnxccustomerL",
+  "className": "customerL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-98dxnnxc-customer",
+      "modelProjection": "customerL"
+    }
+  ]
+}

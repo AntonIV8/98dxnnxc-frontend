@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-98dxnnxc-service-state-e",
+  "editForm": "data-line-98dxnnxc-service-state-e",
+  "external": false,
+  "caption": "Service_state",
+  "name": "DataLine98dxnnxcservice_stateL",
+  "className": "service_stateL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-98dxnnxc-service-state",
+      "modelProjection": "service_stateL"
+    }
+  ]
+}

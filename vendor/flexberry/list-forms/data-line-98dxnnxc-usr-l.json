@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-98dxnnxc-usr-e",
+  "editForm": "data-line-98dxnnxc-usr-e",
+  "external": false,
+  "caption": "Usr",
+  "name": "DataLine98dxnnxcusrL",
+  "className": "usrL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-98dxnnxc-usr",
+      "modelProjection": "usrL"
+    }
+  ]
+}

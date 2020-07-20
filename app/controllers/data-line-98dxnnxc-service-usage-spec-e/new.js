@@ -1,0 +1,4 @@
+import DataLine98dxnnxcservice_usage_specEController from '../data-line-98dxnnxc-service-usage-spec-e';
+
+var DataLine98dxnnxcservice_usage_specENewController = DataLine98dxnnxcservice_usage_specEController;
+export default DataLine98dxnnxcservice_usage_specENewController;

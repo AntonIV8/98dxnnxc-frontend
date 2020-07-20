@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-98dxnnxc-resource-common-e",
+  "editForm": "data-line-98dxnnxc-resource-common-e",
+  "external": false,
+  "caption": "Resource_common",
+  "name": "DataLine98dxnnxcresource_commonL",
+  "className": "resource_commonL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-98dxnnxc-resource-common",
+      "modelProjection": "resource_commonL"
+    }
+  ]
+}

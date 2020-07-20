@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Cardinality_type",
+  "name": "DataLine98dxnnxccardinality_typeE",
+  "className": "cardinality_typeE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-98dxnnxc-cardinality-type",
+      "modelProjection": "cardinality_typeE"
+    }
+  ]
+}

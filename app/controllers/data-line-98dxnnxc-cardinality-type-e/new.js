@@ -1,0 +1,4 @@
+import DataLine98dxnnxccardinality_typeEController from '../data-line-98dxnnxc-cardinality-type-e';
+
+var DataLine98dxnnxccardinality_typeENewController = DataLine98dxnnxccardinality_typeEController;
+export default DataLine98dxnnxccardinality_typeENewController;

@@ -1,0 +1,4 @@
+import DataLine98dxnnxccharacteristic_typeEController from '../data-line-98dxnnxc-characteristic-type-e';
+
+var DataLine98dxnnxccharacteristic_typeENewController = DataLine98dxnnxccharacteristic_typeEController;
+export default DataLine98dxnnxccharacteristic_typeENewController;

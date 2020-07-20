@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-98dxnnxc-resource-log-e",
+  "editForm": "data-line-98dxnnxc-resource-log-e",
+  "external": false,
+  "caption": "Resource_log",
+  "name": "DataLine98dxnnxcresource_logL",
+  "className": "resource_logL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-98dxnnxc-resource-log",
+      "modelProjection": "resource_logL"
+    }
+  ]
+}

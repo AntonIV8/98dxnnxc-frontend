@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Resource_common",
+  "name": "DataLine98dxnnxcresource_commonE",
+  "className": "resource_commonE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-98dxnnxc-resource-common",
+      "modelProjection": "resource_commonE"
+    }
+  ]
+}

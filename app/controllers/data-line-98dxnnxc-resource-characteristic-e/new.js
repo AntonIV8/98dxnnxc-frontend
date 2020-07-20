@@ -1,0 +1,4 @@
+import DataLine98dxnnxcresource_characteristicEController from '../data-line-98dxnnxc-resource-characteristic-e';
+
+var DataLine98dxnnxcresource_characteristicENewController = DataLine98dxnnxcresource_characteristicEController;
+export default DataLine98dxnnxcresource_characteristicENewController;

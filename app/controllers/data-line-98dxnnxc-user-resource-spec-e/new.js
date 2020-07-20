@@ -1,0 +1,4 @@
+import DataLine98dxnnxcuser_resource_specEController from '../data-line-98dxnnxc-user-resource-spec-e';
+
+var DataLine98dxnnxcuser_resource_specENewController = DataLine98dxnnxcuser_resource_specEController;
+export default DataLine98dxnnxcuser_resource_specENewController;

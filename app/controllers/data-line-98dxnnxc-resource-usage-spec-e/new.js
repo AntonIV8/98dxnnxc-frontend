@@ -1,0 +1,4 @@
+import DataLine98dxnnxcresource_usage_specEController from '../data-line-98dxnnxc-resource-usage-spec-e';
+
+var DataLine98dxnnxcresource_usage_specENewController = DataLine98dxnnxcresource_usage_specEController;
+export default DataLine98dxnnxcresource_usage_specENewController;
